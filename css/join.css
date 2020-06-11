@@ -1,0 +1,214 @@
+/*signup*/
+body
+{
+	background: url('../images/9.jpg');
+	background-size: cover;
+}
+#logo
+{
+	font-weight: bold;
+	color: #00b8e6;
+	padding: 10px;
+	display: inline-block;
+	border-radius: 20px;
+	border: solid 2.5px #00b8e6;
+}
+#Block
+{
+    background: white;
+	margin-top: 25px;
+	border-radius: 30px;
+	padding: 25px;
+}
+#Block h1
+{
+	text-align: center;
+}
+hr
+{
+	border: solid 2.5px #00b8e6;
+	border-radius: 10px;
+}
+.btn
+{
+	border-radius: 25px;
+	background: #00b8e6;
+	border: solid 1.5px #00b8e6;
+	color: white;
+	/*width: 80px;*/
+}
+.btn:hover, .btn:active
+{
+    outline: none !important;
+	color: #00b8e6;
+	background: white;
+	border: solid 1.5px #00b8e6;	
+}
+#join a:hover
+{
+	box-shadow: none;
+}
+#join button
+{
+	border-radius: 20px;
+	font-weight: bold;
+	outline: none;
+	width: 70px;
+	margin-top: 8px;
+	background: #00b8e6;
+	color: white;
+	border: solid 1px #00b8e6;
+}
+#join #delete 
+{
+	background: rgb(236,100,75); 
+	border: solid 1px rgb(236,100,75);
+}
+#join #logout
+{
+	font-size: 14px;
+	padding-right: 20px;
+	padding-left: 9px;
+}
+#Block a
+{
+	display: block;
+	text-align: center;
+}
+#Block a:hover, #Block a:active
+{
+	text-decoration: none;
+}
+#usr
+{
+	text-align: center;
+	font-size: 17px;
+	font-weight: bold;
+	color: #6d6d6d;
+}
+.radio
+{
+	text-align: center;
+	font-size: 15px;
+	color: #909090;
+}
+span
+{
+	color: red;
+	font-weight: bold;
+}
+/*login*/
+.login
+{
+	margin-top: 10% !important;
+}
+/*Claim*/
+.navbar
+{
+	background-color: white;
+	border: 0px;
+}
+.navbar-brand
+{
+	font-size: 24px;
+	font-weight: bold;
+	color: #00b8e6 !important;
+}
+.nav a
+{
+	color: black !important;
+	font-weight: bold;
+}
+.nav a:hover
+{
+	color:  #00b8e6 !important;
+	box-shadow: 0px 3px 0px 0px #00b8e6 inset;
+}
+.nav li.active a
+{
+	background-color: white !important;
+	box-shadow: 0px 3px 0px 0px #00b8e6 inset;
+}
+span.icon-bar
+{
+	background: black !important;
+}
+.navbar-toggle
+{
+	border-color: #00b8e6 !important;
+}
+.navbar-toggle:hover, .navbar-toggle:active
+{
+	background: #00b8e6 !important;
+	border-color: #00b8e6 !important;
+	
+}
+#claimCont
+{
+	padding-top: 30px;
+}
+#Cheader
+{
+	color: #00b8e6;
+	text-align: center;
+}
+.tabs
+{
+	padding-top: 10px;
+}
+.tabs a:hover
+{
+	background: white !important;
+}
+.tab-content
+{
+	padding: 10px 0 10px 0;
+}
+#heading
+{
+	margin-top: 4px;
+	text-align: left;
+	color: black;
+}
+#heading:hover
+{
+	cursor: pointer;
+	color: #00b8e6;
+}
+#claimbtn, #claimbtn1
+{
+	width: 100px;
+	margin-left: 25%;
+	font-weight: bold;
+}
+#claimbtn1
+{
+	background: rgb(236,100,75); 
+	border: solid 1px rgb(236,100,75);
+}
+#claimbtn1:hover
+{
+	color: white;
+	background: rgb(220,100,75); 
+	border: solid 1px rgb(220,100,75);
+}
+.ptext
+{
+	font-weight: bold;
+}
+.img-circle
+{
+	margin-right: 30%;
+	margin-top: -6%;
+}
+
+
+
+
+
+
+
+
+
+
+
